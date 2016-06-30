@@ -1,0 +1,105 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ChartDataBaseFilter"
+provides-nominal:
+- "C6Charts19ChartDataBaseFilter"
+provides-member:
+- ["C6Charts19ChartDataBaseFilter", ""]
+provides-dynamic-lookup:
+- "filter"
+depends-top-level:
+- !private "fatalError"
+- "ChartDataBaseFilter"
+- !private "StringLiteralType"
+- "NSObject"
+- "ChartDataEntry"
+depends-member:
+- !private ["PSs9AnyObject", "fatalError"]
+- ["PSs9AnyObject", "filter"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "fatalError"]
+- ["PSs11CVarArgType", "filter"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", ""]
+- ["C6Charts19ChartDataBaseFilter", "ChartDataEntry"]
+- ["C6Charts19ChartDataBaseFilter", "deinit"]
+- !private ["C6Charts19ChartDataBaseFilter", "fatalError"]
+- ["C6Charts19ChartDataBaseFilter", "filter"]
+- ["C6Charts19ChartDataBaseFilter", "init"]
+- !private ["PSs23CustomStringConvertible", "fatalError"]
+- ["PSs23CustomStringConvertible", "filter"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "fatalError"]
+- ["PSs9Equatable", "filter"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "fatalError"]
+- ["PSs8Hashable", "filter"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", ""]
+- ["CSo8NSObject", "ChartDataEntry"]
+- !private ["CSo8NSObject", "fatalError"]
+- ["CSo8NSObject", "filter"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "fatalError"]
+- ["PSo16NSObjectProtocol", "filter"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["VSs12StaticString", "deinit"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "C6Charts19ChartDataBaseFilter"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "VSs12StaticString"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/Supporting Files/Charts.h"
+- "/Users/Deepak/Desktop/OptileCodeChallenge/Build/Intermediates/Charts.build/Debug-iphonesimulator/Charts-iOS.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectBase_Dynamic.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealm_Dynamic.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMSchema_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMResults_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMRealm_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMRealmConfiguration_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMProperty_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMOptionalBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObject_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObjectStore.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObjectSchema_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMMigration_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMListBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMArray_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMAccessor.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMSchema.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMResults.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealmConfiguration.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealm.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMConstants.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMProperty.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMPlatform.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectSchema.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObject.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMMigration.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMDefines.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMCollection.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMArray.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/Realm.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Modules/module.modulemap"
+interface-hash: "d6aa5a6571e720329605237b332db5f8"

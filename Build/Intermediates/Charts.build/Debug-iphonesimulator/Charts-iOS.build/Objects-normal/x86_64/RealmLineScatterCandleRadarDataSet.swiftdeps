@@ -1,0 +1,209 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RealmLineScatterCandleRadarDataSet"
+provides-nominal:
+- "C6Charts34RealmLineScatterCandleRadarDataSet"
+provides-member:
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", ""]
+provides-dynamic-lookup:
+- "drawVerticalHighlightIndicatorEnabled"
+- "copyWithZone"
+- "isHorizontalHighlightIndicatorEnabled"
+- "drawHorizontalHighlightIndicatorEnabled"
+- "isVerticalHighlightIndicatorEnabled"
+- "setDrawHighlightIndicators"
+depends-top-level:
+- "BooleanLiteralType"
+- "AnyObject"
+- "RealmBarLineScatterCandleBubbleDataSet"
+- "RealmLineScatterCandleRadarDataSet"
+- "ILineScatterCandleRadarChartDataSet"
+- "Bool"
+- "NSZone"
+depends-member:
+- ["PSs9AnyObject", "copyWithZone"]
+- ["PSs9AnyObject", "drawHorizontalHighlightIndicatorEnabled"]
+- ["PSs9AnyObject", "drawVerticalHighlightIndicatorEnabled"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "isHorizontalHighlightIndicatorEnabled"]
+- ["PSs9AnyObject", "isVerticalHighlightIndicatorEnabled"]
+- ["PSs9AnyObject", "setDrawHighlightIndicators"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "copyWithZone"]
+- ["PSs11CVarArgType", "drawHorizontalHighlightIndicatorEnabled"]
+- ["PSs11CVarArgType", "drawVerticalHighlightIndicatorEnabled"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "isHorizontalHighlightIndicatorEnabled"]
+- ["PSs11CVarArgType", "isVerticalHighlightIndicatorEnabled"]
+- ["PSs11CVarArgType", "setDrawHighlightIndicators"]
+- ["PSs11CVarArgType", ""]
+- ["C6Charts16ChartBaseDataSet", "AnyObject"]
+- ["C6Charts16ChartBaseDataSet", "Bool"]
+- ["C6Charts16ChartBaseDataSet", "NSZone"]
+- !private ["C6Charts16ChartBaseDataSet", "RealmLineScatterCandleRadarDataSet"]
+- ["C6Charts16ChartBaseDataSet", "copyWithZone"]
+- ["C6Charts16ChartBaseDataSet", "drawHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts16ChartBaseDataSet", "drawVerticalHighlightIndicatorEnabled"]
+- ["C6Charts16ChartBaseDataSet", "init"]
+- ["C6Charts16ChartBaseDataSet", "isHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts16ChartBaseDataSet", "isVerticalHighlightIndicatorEnabled"]
+- ["C6Charts16ChartBaseDataSet", "setDrawHighlightIndicators"]
+- ["PSs23CustomStringConvertible", "copyWithZone"]
+- ["PSs23CustomStringConvertible", "drawHorizontalHighlightIndicatorEnabled"]
+- ["PSs23CustomStringConvertible", "drawVerticalHighlightIndicatorEnabled"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "isHorizontalHighlightIndicatorEnabled"]
+- ["PSs23CustomStringConvertible", "isVerticalHighlightIndicatorEnabled"]
+- ["PSs23CustomStringConvertible", "setDrawHighlightIndicators"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "copyWithZone"]
+- ["PSs9Equatable", "drawHorizontalHighlightIndicatorEnabled"]
+- ["PSs9Equatable", "drawVerticalHighlightIndicatorEnabled"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "isHorizontalHighlightIndicatorEnabled"]
+- ["PSs9Equatable", "isVerticalHighlightIndicatorEnabled"]
+- ["PSs9Equatable", "setDrawHighlightIndicators"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "copyWithZone"]
+- ["PSs8Hashable", "drawHorizontalHighlightIndicatorEnabled"]
+- ["PSs8Hashable", "drawVerticalHighlightIndicatorEnabled"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "isHorizontalHighlightIndicatorEnabled"]
+- ["PSs8Hashable", "isVerticalHighlightIndicatorEnabled"]
+- ["PSs8Hashable", "setDrawHighlightIndicators"]
+- ["PSs8Hashable", ""]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "copyWithZone"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "drawHorizontalHighlightIndicatorEnabled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "drawVerticalHighlightIndicatorEnabled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "init"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "isHorizontalHighlightIndicatorEnabled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "isVerticalHighlightIndicatorEnabled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "setDrawHighlightIndicators"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", ""]
+- ["P6Charts13IChartDataSet", "copyWithZone"]
+- ["P6Charts13IChartDataSet", "drawHorizontalHighlightIndicatorEnabled"]
+- ["P6Charts13IChartDataSet", "drawVerticalHighlightIndicatorEnabled"]
+- ["P6Charts13IChartDataSet", "init"]
+- ["P6Charts13IChartDataSet", "isHorizontalHighlightIndicatorEnabled"]
+- ["P6Charts13IChartDataSet", "isVerticalHighlightIndicatorEnabled"]
+- ["P6Charts13IChartDataSet", "setDrawHighlightIndicators"]
+- ["P6Charts13IChartDataSet", ""]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "drawHorizontalHighlightIndicatorEnabled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "drawVerticalHighlightIndicatorEnabled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "isHorizontalHighlightIndicatorEnabled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "isVerticalHighlightIndicatorEnabled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "setDrawHighlightIndicators"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", ""]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "NSZone"]
+- !private ["CSo8NSObject", "RealmLineScatterCandleRadarDataSet"]
+- ["CSo8NSObject", "copyWithZone"]
+- ["CSo8NSObject", "drawHorizontalHighlightIndicatorEnabled"]
+- ["CSo8NSObject", "drawVerticalHighlightIndicatorEnabled"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "isHorizontalHighlightIndicatorEnabled"]
+- ["CSo8NSObject", "isVerticalHighlightIndicatorEnabled"]
+- ["CSo8NSObject", "setDrawHighlightIndicators"]
+- ["PSo16NSObjectProtocol", "copyWithZone"]
+- ["PSo16NSObjectProtocol", "drawHorizontalHighlightIndicatorEnabled"]
+- ["PSo16NSObjectProtocol", "drawVerticalHighlightIndicatorEnabled"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "isHorizontalHighlightIndicatorEnabled"]
+- ["PSo16NSObjectProtocol", "isVerticalHighlightIndicatorEnabled"]
+- ["PSo16NSObjectProtocol", "setDrawHighlightIndicators"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "AnyObject"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "Bool"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "NSZone"]
+- !private ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "RealmLineScatterCandleRadarDataSet"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "copyWithZone"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "drawHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "drawVerticalHighlightIndicatorEnabled"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "init"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "isHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "isVerticalHighlightIndicatorEnabled"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", "setDrawHighlightIndicators"]
+- ["C6Charts38RealmBarLineScatterCandleBubbleDataSet", ""]
+- ["C6Charts16RealmBaseDataSet", "AnyObject"]
+- ["C6Charts16RealmBaseDataSet", "Bool"]
+- ["C6Charts16RealmBaseDataSet", "NSZone"]
+- !private ["C6Charts16RealmBaseDataSet", "RealmLineScatterCandleRadarDataSet"]
+- ["C6Charts16RealmBaseDataSet", "copyWithZone"]
+- ["C6Charts16RealmBaseDataSet", "drawHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts16RealmBaseDataSet", "drawVerticalHighlightIndicatorEnabled"]
+- ["C6Charts16RealmBaseDataSet", "init"]
+- ["C6Charts16RealmBaseDataSet", "isHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts16RealmBaseDataSet", "isVerticalHighlightIndicatorEnabled"]
+- ["C6Charts16RealmBaseDataSet", "setDrawHighlightIndicators"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "AnyObject"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "Bool"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "NSZone"]
+- !private ["C6Charts34RealmLineScatterCandleRadarDataSet", "RealmLineScatterCandleRadarDataSet"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "copyWithZone"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "deinit"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "drawHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "drawVerticalHighlightIndicatorEnabled"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "init"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "isHorizontalHighlightIndicatorEnabled"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "isVerticalHighlightIndicatorEnabled"]
+- ["C6Charts34RealmLineScatterCandleRadarDataSet", "setDrawHighlightIndicators"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "C6Charts16ChartBaseDataSet"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "P6Charts39IBarLineScatterCandleBubbleChartDataSet"
+- "P6Charts13IChartDataSet"
+- "P6Charts35ILineScatterCandleRadarChartDataSet"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C6Charts38RealmBarLineScatterCandleBubbleDataSet"
+- "C6Charts16RealmBaseDataSet"
+- "C6Charts34RealmLineScatterCandleRadarDataSet"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/Supporting Files/Charts.h"
+- "/Users/Deepak/Desktop/OptileCodeChallenge/Build/Intermediates/Charts.build/Debug-iphonesimulator/Charts-iOS.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectBase_Dynamic.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealm_Dynamic.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMSchema_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMResults_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMRealm_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMRealmConfiguration_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMProperty_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMOptionalBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObject_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObjectStore.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObjectSchema_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMMigration_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMListBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMArray_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMAccessor.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMSchema.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMResults.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealmConfiguration.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealm.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMConstants.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMProperty.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMPlatform.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectSchema.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObject.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMMigration.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMDefines.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMCollection.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMArray.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/Realm.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Modules/module.modulemap"
+interface-hash: "bd3faf624204ed311411a71499796847"

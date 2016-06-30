@@ -1,0 +1,152 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "IChartDataSet"
+provides-nominal:
+- "P6Charts13IChartDataSet"
+provides-member:
+- ["P6Charts13IChartDataSet", ""]
+provides-dynamic-lookup:
+- "drawValuesEnabled"
+- "valueFormatter"
+- "axisDependency"
+- "entryForIndex"
+- "visible"
+- "label"
+- "addColor"
+- "isHighlightEnabled"
+- "entryForXIndex"
+- "valueTextColor"
+- "removeEntry"
+- "calcMinMax"
+- "resetColors"
+- "setColor"
+- "isDrawValuesEnabled"
+- "notifyDataSetChanged"
+- "yMin"
+- "entryIndex"
+- "entryIndex"
+- "yMax"
+- "addEntry"
+- "yValForXIndex"
+- "contains"
+- "isVisible"
+- "highlightEnabled"
+- "valueFont"
+- "colors"
+- "entryCount"
+- "colorAt"
+depends-top-level:
+- "IChartDataSet"
+- "Bool"
+- "ChartDataEntry"
+- "ChartYAxis"
+- "NSNumberFormatter"
+- "String"
+- "UIFont"
+- "UIColor"
+- "Int"
+- "Double"
+depends-member:
+- ["PSs9AnyObject", "AxisDependency"]
+- ["PSs11CVarArgType", "AxisDependency"]
+- ["C6Charts13ChartAxisBase", "AxisDependency"]
+- ["C6Charts18ChartComponentBase", "AxisDependency"]
+- ["C6Charts10ChartYAxis", "AxisDependency"]
+- ["PSs23CustomStringConvertible", "AxisDependency"]
+- ["PSs9Equatable", "AxisDependency"]
+- ["PSs8Hashable", "AxisDependency"]
+- ["P6Charts13IChartDataSet", "Bool"]
+- ["P6Charts13IChartDataSet", "ChartDataEntry"]
+- ["P6Charts13IChartDataSet", "ChartYAxis"]
+- ["P6Charts13IChartDataSet", "Double"]
+- ["P6Charts13IChartDataSet", "Int"]
+- ["P6Charts13IChartDataSet", "NSNumberFormatter"]
+- ["P6Charts13IChartDataSet", "String"]
+- ["P6Charts13IChartDataSet", "UIColor"]
+- ["P6Charts13IChartDataSet", "UIFont"]
+- ["P6Charts13IChartDataSet", "addColor"]
+- ["P6Charts13IChartDataSet", "addEntry"]
+- ["P6Charts13IChartDataSet", "axisDependency"]
+- ["P6Charts13IChartDataSet", "calcMinMax"]
+- ["P6Charts13IChartDataSet", "colorAt"]
+- ["P6Charts13IChartDataSet", "colors"]
+- ["P6Charts13IChartDataSet", "contains"]
+- ["P6Charts13IChartDataSet", "drawValuesEnabled"]
+- ["P6Charts13IChartDataSet", "entryCount"]
+- ["P6Charts13IChartDataSet", "entryForIndex"]
+- ["P6Charts13IChartDataSet", "entryForXIndex"]
+- ["P6Charts13IChartDataSet", "entryIndex"]
+- ["P6Charts13IChartDataSet", "highlightEnabled"]
+- ["P6Charts13IChartDataSet", "isDrawValuesEnabled"]
+- ["P6Charts13IChartDataSet", "isHighlightEnabled"]
+- ["P6Charts13IChartDataSet", "isVisible"]
+- ["P6Charts13IChartDataSet", "label"]
+- ["P6Charts13IChartDataSet", "notifyDataSetChanged"]
+- ["P6Charts13IChartDataSet", "removeEntry"]
+- ["P6Charts13IChartDataSet", "resetColors"]
+- ["P6Charts13IChartDataSet", "setColor"]
+- ["P6Charts13IChartDataSet", "valueFont"]
+- ["P6Charts13IChartDataSet", "valueFormatter"]
+- ["P6Charts13IChartDataSet", "valueTextColor"]
+- ["P6Charts13IChartDataSet", "visible"]
+- ["P6Charts13IChartDataSet", "yMax"]
+- ["P6Charts13IChartDataSet", "yMin"]
+- ["P6Charts13IChartDataSet", "yValForXIndex"]
+- ["CSo8NSObject", "AxisDependency"]
+- ["PSo16NSObjectProtocol", "AxisDependency"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "C6Charts13ChartAxisBase"
+- "C6Charts18ChartComponentBase"
+- "C6Charts10ChartYAxis"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "P6Charts13IChartDataSet"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/Supporting Files/Charts.h"
+- "/Users/Deepak/Desktop/OptileCodeChallenge/Build/Intermediates/Charts.build/Debug-iphonesimulator/Charts-iOS.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectBase_Dynamic.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealm_Dynamic.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMSchema_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMResults_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMRealm_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMRealmConfiguration_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMProperty_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMOptionalBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObject_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObjectStore.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMObjectSchema_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMMigration_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMListBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMArray_Private.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/PrivateHeaders/RLMAccessor.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMSchema.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMResults.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealmConfiguration.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMRealm.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMConstants.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMProperty.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMPlatform.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectSchema.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObjectBase.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMObject.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMMigration.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMDefines.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMCollection.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/RLMArray.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Headers/Realm.h"
+- "/Users/Deepak/Downloads/Charts-2.2.0/Charts/ThirdParty/Realm/ios/Realm.framework/Modules/module.modulemap"
+interface-hash: "8e895d1c55990f1d59a9692a4edc0fbc"

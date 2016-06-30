@@ -1,0 +1,243 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AnimatedMoveChartViewJob"
+provides-nominal:
+- "C6Charts24AnimatedMoveChartViewJob"
+provides-member:
+- ["C6Charts24AnimatedMoveChartViewJob", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnimatedMoveChartViewJob"
+- "NSTimeInterval"
+- !private "*"
+- "ChartViewBase"
+- !private "-"
+- !private "+"
+- "ChartEasingFunctionBlock"
+- "ChartViewPortHandler"
+- !private "CGPoint"
+- "AnimatedViewPortJob"
+- "ChartTransformer"
+- "Double"
+- "CGFloat"
+depends-member:
+- !private ["PSs16AbsoluteValuable", "IntegerLiteralType"]
+- !private ["PSs16AbsoluteValuable", "Stride"]
+- !private ["PSs16AbsoluteValuable", "init"]
+- ["C6Charts24AnimatedMoveChartViewJob", "CGFloat"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "CGPoint"]
+- ["C6Charts24AnimatedMoveChartViewJob", "ChartEasingFunctionBlock"]
+- ["C6Charts24AnimatedMoveChartViewJob", "ChartTransformer"]
+- ["C6Charts24AnimatedMoveChartViewJob", "ChartViewBase"]
+- ["C6Charts24AnimatedMoveChartViewJob", "ChartViewPortHandler"]
+- ["C6Charts24AnimatedMoveChartViewJob", "Double"]
+- ["C6Charts24AnimatedMoveChartViewJob", "NSTimeInterval"]
+- ["C6Charts24AnimatedMoveChartViewJob", "animationUpdate"]
+- ["C6Charts24AnimatedMoveChartViewJob", "deinit"]
+- ["C6Charts24AnimatedMoveChartViewJob", "init"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "phase"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "transformer"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "view"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "viewPortHandler"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "xIndex"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "xOrigin"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "yOrigin"]
+- !private ["C6Charts24AnimatedMoveChartViewJob", "yValue"]
+- ["C6Charts19AnimatedViewPortJob", "CGFloat"]
+- !private ["C6Charts19AnimatedViewPortJob", "CGPoint"]
+- ["C6Charts19AnimatedViewPortJob", "ChartEasingFunctionBlock"]
+- ["C6Charts19AnimatedViewPortJob", "ChartTransformer"]
+- ["C6Charts19AnimatedViewPortJob", "ChartViewBase"]
+- ["C6Charts19AnimatedViewPortJob", "ChartViewPortHandler"]
+- ["C6Charts19AnimatedViewPortJob", "Double"]
+- ["C6Charts19AnimatedViewPortJob", "NSTimeInterval"]
+- ["C6Charts19AnimatedViewPortJob", "animationUpdate"]
+- ["C6Charts19AnimatedViewPortJob", "init"]
+- !private ["C6Charts19AnimatedViewPortJob", "phase"]
+- !private ["C6Charts19AnimatedViewPortJob", "transformer"]
+- !private ["C6Charts19AnimatedViewPortJob", "view"]
+- !private ["C6Charts19AnimatedViewPortJob", "viewPortHandler"]
+- !private ["C6Charts19AnimatedViewPortJob", "xIndex"]
+- !private ["C6Charts19AnimatedViewPortJob", "xOrigin"]
+- !private ["C6Charts19AnimatedViewPortJob", "yOrigin"]
+- !private ["C6Charts19AnimatedViewPortJob", "yValue"]
+- ["C6Charts19AnimatedViewPortJob", ""]
+- !private ["PSs9AnyObject", "CGFloat"]
+- !private ["PSs9AnyObject", "CGPoint"]
+- ["PSs9AnyObject", "animationUpdate"]
+- !private ["PSs9AnyObject", "centerViewPort"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "phase"]
+- !private ["PSs9AnyObject", "pointValueToPixel"]
+- !private ["PSs9AnyObject", "transformer"]
+- !private ["PSs9AnyObject", "view"]
+- !private ["PSs9AnyObject", "viewPortHandler"]
+- !private ["PSs9AnyObject", "xIndex"]
+- !private ["PSs9AnyObject", "xOrigin"]
+- !private ["PSs9AnyObject", "yOrigin"]
+- !private ["PSs9AnyObject", "yValue"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs22BidirectionalIndexType", "Stride"]
+- !private ["PSs21BitwiseOperationsType", "Stride"]
+- !private ["V12CoreGraphics7CGFloat", "IntegerLiteralType"]
+- !private ["V12CoreGraphics7CGFloat", "Stride"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["V12CoreGraphics7CGFloat", "init"]
+- !private ["VSC7CGPoint", "init"]
+- !private ["PSs11CVarArgType", "IntegerLiteralType"]
+- !private ["PSs11CVarArgType", "Stride"]
+- !private ["PSs11CVarArgType", "centerViewPort"]
+- !private ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "pointValueToPixel"]
+- !private ["C6Charts16ChartTransformer", "pointValueToPixel"]
+- !private ["C6Charts20ChartViewPortHandler", "centerViewPort"]
+- ["C6Charts16ChartViewPortJob", "CGFloat"]
+- !private ["C6Charts16ChartViewPortJob", "CGPoint"]
+- ["C6Charts16ChartViewPortJob", "ChartEasingFunctionBlock"]
+- ["C6Charts16ChartViewPortJob", "ChartTransformer"]
+- ["C6Charts16ChartViewPortJob", "ChartViewBase"]
+- ["C6Charts16ChartViewPortJob", "ChartViewPortHandler"]
+- ["C6Charts16ChartViewPortJob", "Double"]
+- ["C6Charts16ChartViewPortJob", "NSTimeInterval"]
+- ["C6Charts16ChartViewPortJob", "animationUpdate"]
+- !private ["C6Charts16ChartViewPortJob", "phase"]
+- !private ["C6Charts16ChartViewPortJob", "transformer"]
+- !private ["C6Charts16ChartViewPortJob", "view"]
+- !private ["C6Charts16ChartViewPortJob", "viewPortHandler"]
+- !private ["C6Charts16ChartViewPortJob", "xIndex"]
+- !private ["C6Charts16ChartViewPortJob", "xOrigin"]
+- !private ["C6Charts16ChartViewPortJob", "yOrigin"]
+- !private ["C6Charts16ChartViewPortJob", "yValue"]
+- !private ["PSs10Comparable", "IntegerLiteralType"]
+- !private ["PSs10Comparable", "Stride"]
+- !private ["PSs10Comparable", "init"]
+- ["PSs28CustomDebugStringConvertible", "Some"]
+- !private ["PSs23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["PSs23CustomStringConvertible", "Stride"]
+- !private ["PSs23CustomStringConvertible", "centerViewPort"]
+- !private ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "pointValueToPixel"]
+- !private ["Sd", "Stride"]
+- !private ["Sd", "deinit"]
+- !private ["PSs9Equatable", "IntegerLiteralType"]
+- !private ["PSs9Equatable", "Stride"]
+- !private ["PSs9Equatable", "centerViewPort"]
+- !private ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "pointValueToPixel"]
+- !private ["PSs23FloatLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs23FloatLiteralConvertible", "Stride"]
+- !private ["PSs23FloatLiteralConvertible", "init"]
+- !private ["PSs17FloatingPointType", "IntegerLiteralType"]
+- !private ["PSs17FloatingPointType", "Stride"]
+- !private ["PSs17FloatingPointType", "init"]
+- !private ["PSs16ForwardIndexType", "Stride"]
+- !private ["PSs8Hashable", "IntegerLiteralType"]
+- !private ["PSs8Hashable", "Stride"]
+- !private ["PSs8Hashable", "centerViewPort"]
+- !private ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "pointValueToPixel"]
+- !private ["Si", "Stride"]
+- !private ["Si", "deinit"]
+- !private ["PSs21IntegerArithmeticType", "Stride"]
+- !private ["PSs25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs25IntegerLiteralConvertible", "Stride"]
+- !private ["PSs25IntegerLiteralConvertible", "init"]
+- !private ["PSs11IntegerType", "Stride"]
+- !private ["PSs14MirrorPathType", "Stride"]
+- !private ["CSo8NSObject", "centerViewPort"]
+- !private ["CSo8NSObject", "pointValueToPixel"]
+- !private ["PSo16NSObjectProtocol", "centerViewPort"]
+- !private ["PSo16NSObjectProtocol", "pointValueToPixel"]
+- ["PSs21NilLiteralConvertible", "Some"]
+- ["Sq", "Some"]
+- !private ["PSs21RandomAccessIndexType", "Stride"]
+- !private ["PSs17SignedIntegerType", "Stride"]
+- !private ["PSs16SignedNumberType", "IntegerLiteralType"]
+- !private ["PSs16SignedNumberType", "Stride"]
+- !private ["PSs16SignedNumberType", "init"]
+- !private ["PSs10Strideable", "IntegerLiteralType"]
+- !private ["PSs10Strideable", "Stride"]
+- !private ["PSs10Strideable", "init"]
+- !private ["PSs31_BuiltinFloatLiteralConvertible", "Stride"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "Stride"]
+- !private ["PSs19_CVarArgAlignedType", "IntegerLiteralType"]
+- !private ["PSs19_CVarArgAlignedType", "Stride"]
+- !private ["PSs19_CVarArgAlignedType", "init"]
+- !private ["PSs22_CVarArgPassedAsDouble", "IntegerLiteralType"]
+- !private ["PSs22_CVarArgPassedAsDouble", "Stride"]
+- !private ["PSs22_CVarArgPassedAsDouble", "init"]
+- !private ["PSs14_Incrementable", "Stride"]
+- !private ["PSs22_IntegerArithmeticType", "Stride"]
+- !private ["PSs12_IntegerType", "Stride"]
+- !private ["PSs21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["PSs21_ObjectiveCBridgeable", "Stride"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["PSs22_RandomAccessAmbiguity", "Stride"]
+- !private ["PSs12_Reflectable", "IntegerLiteralType"]
+- ["PSs12_Reflectable", "Some"]
+- !private ["PSs12_Reflectable", "Stride"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs18_SignedIntegerType", "Stride"]
+- !private ["PSs11_Strideable", "IntegerLiteralType"]
+- !private ["PSs11_Strideable", "Stride"]
+- !private ["PSs11_Strideable", "init"]
+depends-nominal:
+- !private "PSs16AbsoluteValuable"
+- "C6Charts24AnimatedMoveChartViewJob"
+- "C6Charts19AnimatedViewPortJob"
+- "PSs9AnyObject"
+- !private "PSs22BidirectionalIndexType"
+- !private "PSs21BitwiseOperationsType"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC7CGPoint"
+- !private "PSs11CVarArgType"
+- !private "C6Charts16ChartTransformer"
+- !private "C6Charts20ChartViewPortHandler"
+- "C6Charts16ChartViewPortJob"
+- !private "PSs10Comparable"
+- "PSs28CustomDebugStringConvertible"
+- !private "PSs23CustomStringConvertible"
+- !private "Sd"
+- !private "PSs9Equatable"
+- !private "PSs23FloatLiteralConvertible"
+- !private "PSs17FloatingPointType"
+- !private "PSs16ForwardIndexType"
+- !private "PSs8Hashable"
+- !private "Si"
+- !private "PSs21IntegerArithmeticType"
+- !private "PSs25IntegerLiteralConvertible"
+- !private "PSs11IntegerType"
+- !private "PSs14MirrorPathType"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- "PSs21NilLiteralConvertible"
+- "Sq"
+- !private "PSs21RandomAccessIndexType"
+- !private "PSs17SignedIntegerType"
+- !private "PSs16SignedNumberType"
+- !private "PSs10Strideable"
+- !private "PSs31_BuiltinFloatLiteralConvertible"
+- !private "PSs33_BuiltinIntegerLiteralConvertible"
+- !private "PSs19_CVarArgAlignedType"
+- !private "PSs22_CVarArgPassedAsDouble"
+- !private "PSs14_Incrementable"
+- !private "PSs22_IntegerArithmeticType"
+- !private "PSs12_IntegerType"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs22_RandomAccessAmbiguity"
+- "PSs12_Reflectable"
+- !private "PSs18_SignedIntegerType"
+- !private "PSs11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Deepak/Desktop/OptileCodeChallenge/Pods/Target Support Files/Charts/Charts-umbrella.h"
+- "/Users/Deepak/Desktop/OptileCodeChallenge/Build/Intermediates/Pods.build/Debug-iphonesimulator/Charts.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "fe148e39378648c445227bf9ff2abd90"
